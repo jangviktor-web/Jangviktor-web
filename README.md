@@ -24,10 +24,9 @@
   <img src="https://img.shields.io/badge/Public%20Repos-26-0a7c2e?style=for-the-badge&logo=github&logoColor=white" alt="repos"/>
 </p>
 
-<!-- ════════ 打字机 Slogan（demolab，国内可达）════════ -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3500&pause=800&center=true&vCenter=true&width=680&lines=Flutter+%2F+AI+%E5%B7%A5%E7%A8%8B%E5%8C%96%E5%BC%80%E5%8F%91%E8%80%85;%E4%B8%AD%E5%8C%BB%E5%85%AC%E7%BB%8F%E8%BE%A8%E8%AF%81+App+%E4%BD%9C%E8%80%85;A%E8%82%A1%E9%87%8F%E5%8C%96+%E5%BC%80%E6%BA%90%E5%B7%A5%E5%85%B7%E7%AE%B1;%E7%94%A8%E4%BB%A3%E7%A0%81%E4%BC%A0%E6%89%BF+%E4%B8%AD%E5%8C%BB%C3%97%E5%9B%BD%E5%AD%A6%C3%97%E9%87%8F%E5%8C%96" alt="typing"/>
-</p>
+<!-- ════════ Slogan（纯文字，零外部依赖）════════ -->
+<p align="center"><b>用代码传承 · 中医 × 国学 × 量化</b></p>
+
 
 ---
 
@@ -48,12 +47,17 @@
 
 ---
 
-<!-- ════════ 🔥 连续贡献（demolab，国内可达）════════ -->
-## 🔥 连续贡献
+<!-- ════════ 🔥 开源活跃度（shields 动态，国内可达）════════ -->
+## 🔥 开源活跃度
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=jangviktor-web&theme=radical&hide_border=true&card_width=495" height="175" alt="streak"/>
+  <img src="https://img.shields.io/github/commit-activity/y/jangviktor-web?style=for-the-badge&color=fe428e&logo=github" alt="year commits"/>
+  <img src="https://img.shields.io/github/last-commit/jangviktor-web/Jangviktor-web?style=for-the-badge&color=0a7c2e&logo=github" alt="last commit"/>
+  <img src="https://img.shields.io/badge/保持%20每日%20提交-1769aa?style=for-the-badge&logo=github" alt="daily"/>
 </p>
+
+<p align="center"><i>持续提交中 · 累计 26 个公开仓库 / 4.3k+ ⭐</i></p>
+
 
 ---
 
