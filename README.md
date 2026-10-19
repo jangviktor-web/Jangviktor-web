@@ -150,17 +150,6 @@
 
 ---
 
-<!--
-[EDIT] 若你的读者网络可访问 vercel.app，可取消下面整段注释，恢复 github-profile-trophy 奖杯墙：
-
-## 🏆 GitHub 成就奖杯（原版，需访问 vercel）
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jangviktor-web&theme=radical&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=false" alt="trophy"/>
-  </a>
-</p>
-
--->
 
 <p align="center">
   <img src="https://img.shields.io/badge/Thanks%20for%20visiting%20%F0%9F%91%80-fe428e?style=flat-square" alt="thanks"/>
