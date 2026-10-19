@@ -100,6 +100,17 @@
 
 ---
 
+<!-- ════════ ⭐ 旗舰项目（repostars.dev star 卡，国内可达）════════ -->
+## ⭐ 旗舰项目 · nihaixia
+
+<p align="center">
+  [![RepoStars](https://repostars.dev/api/embed?repo=jangviktor-web%2Fnihaixia&theme=minimal)](https://repostars.dev/?repos=jangviktor-web%2Fnihaixia&theme=minimal)
+</p>
+
+<p align="center"><b>nihaixia</b> · 倪海厦视角的中医 Agent Skill —— 累计 <b>3.6k+ ⭐</b> 的中医 AI 知识蒸馏标杆</p>
+
+---
+
 <!-- ════════ 🚀 重点详表 ════════ -->
 ## 🚀 精选项目
 
